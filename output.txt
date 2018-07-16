@@ -1,0 +1,5 @@
+Dept        Designation Emplid      Extn.       Name        
+
+Purchse                 1045                    Ankush      
+Stores      GM	                     5044        Arun        
+Accounts    SD                                  Rajesh      
